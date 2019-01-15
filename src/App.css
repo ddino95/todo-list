@@ -1,4 +1,9 @@
 .App {
   width: 500px;
   margin: 10px auto;
+  border: 1px solid green;
+}
+
+.todo-wrapper {
+  text-align: center;
 }
